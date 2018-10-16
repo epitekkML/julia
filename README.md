@@ -1,5 +1,5 @@
 # julia
-julia machine learning resources
+julia learning resources
 
 https://julialang.org/learning/
 
